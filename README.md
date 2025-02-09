@@ -1,4 +1,4 @@
-# Translator by @xurxorguezz_
+# 🌍 Translator by @xurxorguezz_
 
 ![Translator Screenshot](./images/translatorbyxurxorguezz.png)
 
